@@ -7,11 +7,14 @@ main .row {
 }
 
 .card {
-  height: 200px;
   text-align: center;
   padding-top: 30px;
 }
 
+.card img {
+  width: 100%;
+}
+
 .character {
-  
+
 }
