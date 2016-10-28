@@ -6,8 +6,12 @@ main .row {
   margin-bottom: 20px;
 }
 
-.box {
+.card {
   height: 200px;
   text-align: center;
   padding-top: 30px;
+}
+
+.character {
+  
 }
