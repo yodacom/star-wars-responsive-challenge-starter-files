@@ -1,14 +1,24 @@
+.header {
+background-color: orange;
+background-size: 100%;
+text-shadow: 2px;
+}
+
+.header h1 h2 h3 h4 {
+text-indent: 33%;
+}
+
 main {
-  padding-top: 100px;
+  padding-top: 2px;
 }
 
 main .row {
-  margin-bottom: 20px;
-}
+  margin-bottom: 2px;
+  }
 
 .card {
   text-align: center;
-  padding-top: 30px;
+  padding-top: 2px;
 }
 
 .card img {
