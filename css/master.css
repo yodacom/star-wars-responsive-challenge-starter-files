@@ -19,6 +19,7 @@ main .row {
 .card {
   text-align: center;
   padding-top: 2px;
+  border: solid 1px #cccccc;
 }
 
 .card img {
